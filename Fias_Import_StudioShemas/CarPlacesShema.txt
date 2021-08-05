@@ -1,0 +1,42 @@
+{"xmlTable" : "CARPLACES",
+"studioClass" : "fias_CARPLACES",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "OBJECTID",
+"studioProperty" : "objectID"},
+
+{"xmlAttribute" : "OBJECTGUID",
+"studioProperty" : "objectGuID"},
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"},
+
+{"xmlAttribute" : "NUMBER",
+"studioProperty" : "number"},
+
+{"xmlAttribute" : "OPERTYPEID",
+"studioProperty" : "operTypeID"},
+
+{"xmlAttribute" : "PREVID",
+"studioProperty" : "prevID"},
+
+{"xmlAttribute" : "NEXTID",
+"studioProperty" : "nextID"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+{"xmlAttribute" : "ISACTUAL",
+"studioProperty" : "isActual"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"}]}

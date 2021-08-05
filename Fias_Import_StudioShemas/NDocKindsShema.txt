@@ -1,0 +1,9 @@
+{"xmlTable" : "NDOCKINDS",
+"studioClass" : "fias_NDOCKINDS",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"}]}

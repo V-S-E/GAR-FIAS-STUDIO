@@ -1,0 +1,27 @@
+{"xmlTable" : "PARAMTYPES",
+"studioClass" : "fias_PARAMTYPES",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "DESC",
+"studioProperty" : "desc"},
+
+{"xmlAttribute" : "CODE",
+"studioProperty" : "code"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"}]}

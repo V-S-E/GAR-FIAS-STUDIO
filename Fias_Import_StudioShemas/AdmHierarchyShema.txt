@@ -1,0 +1,66 @@
+{"xmlTable" : "ITEMS",
+"studioClass" : "fias_ADMHIERARCHY",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+
+{"xmlAttribute" : "OBJECTID",
+"studioProperty" : "objectID"},
+
+
+{"xmlAttribute" : "PARENTOBJID",
+"studioProperty" : "parentObjectID"},
+
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"},
+
+
+{"xmlAttribute" : "REGIONCODE",
+"studioProperty" : "regionCode"},
+
+
+{"xmlAttribute" : "AREACODE",
+"studioProperty" : "areaCode"},
+
+
+{"xmlAttribute" : "CITYCODE",
+"studioProperty" : "cityCode"},
+
+
+{"xmlAttribute" : "PLACECODE",
+"studioProperty" : "placeCode"},
+
+
+{"xmlAttribute" : "PLANCODE",
+"studioProperty" : "planCDE"},
+
+
+{"xmlAttribute" : "STREETCODE",
+"studioProperty" : "streetCode"},
+
+
+{"xmlAttribute" : "PREVID",
+"studioProperty" : "prevID"},
+
+
+{"xmlAttribute" : "NEXTID",
+"studioProperty" : "nextID"},
+
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"}]}

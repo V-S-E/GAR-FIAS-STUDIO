@@ -1,0 +1,21 @@
+{"xmlTable" : "OPERATIONTYPES",
+"studioClass" : "?",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"}]}

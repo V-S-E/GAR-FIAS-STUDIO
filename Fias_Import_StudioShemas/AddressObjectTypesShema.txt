@@ -1,0 +1,37 @@
+{"xmlTable" : "ADDRESSOBJECTTYPES",
+"studioClass" : "fias_ADDRESSOBJECTTYPES",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+
+{"xmlAttribute" : "LEVEL",
+"studioProperty" : "level"},
+
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+
+{"xmlAttribute" : "SHORTNAME",
+"studioProperty" : "shortName"},
+
+
+{"xmlAttribute" : "DESC",
+"studioProperty" : "desc"},
+
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"}]}

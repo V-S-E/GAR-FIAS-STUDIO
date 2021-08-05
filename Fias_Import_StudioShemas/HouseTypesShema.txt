@@ -1,0 +1,33 @@
+{"xmlTable" : "HOUSETYPES",
+"studioClass" : "fias_HOUSETYPES",
+"collations" : [
+
+{"xmlAttribute" : "DESC",
+"studioProperty" : "desc"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"},
+
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+
+{"xmlAttribute" : "SHORTNAME",
+"studioProperty" : "shortName"},
+
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"}]}

@@ -1,0 +1,15 @@
+{"xmlTable" : "NDOCTYPES",
+"studioClass" : "?",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"}]}

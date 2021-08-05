@@ -1,0 +1,24 @@
+{"xmlTable" : "REESTR_OBJECTS",
+"studioClass" : "fias_REESTR_OBJECTS",
+"collations" : [
+
+{"xmlAttribute" : "OBJECTID",
+"studioProperty" : "objectID"},
+
+{"xmlAttribute" : "OBJECTGUID",
+"studioProperty" : "objectGuID"},
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"},
+
+{"xmlAttribute" : "LEVELID",
+"studioProperty" : "levelID"},
+
+{"xmlAttribute" : "CREATEDATE",
+"studioProperty" : "fiasCreateDate"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"}]}

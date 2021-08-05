@@ -1,0 +1,24 @@
+{"xmlTable" : "ROOMTYPES",
+"studioClass" : "fias_ROOMTYPES",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "DESC",
+"studioProperty" : "desc"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"}]}

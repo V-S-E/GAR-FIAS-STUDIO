@@ -1,0 +1,15 @@
+{"xmlTable" : "ITEMS",
+"studioClass" : "?",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "PARENTID",
+"studioProperty" : "parentID"},
+
+{"xmlAttribute" : "CHILDID",
+"studioProperty" : "childID"},
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"}]}

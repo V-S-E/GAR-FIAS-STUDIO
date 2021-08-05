@@ -1,0 +1,30 @@
+{"xmlTable" : "NORMDOCS",
+"studioClass" : "fias_NORMDOCS",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "DATE",
+"studioProperty" : "fiasDate"},
+
+{"xmlAttribute" : "NUMBER",
+"studioProperty" : "number"},
+
+{"xmlAttribute" : "TYPE",
+"studioProperty" : "type"},
+
+{"xmlAttribute" : "KIND",
+"studioProperty" : "kind"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+{"xmlAttribute" : "ORGNAME",
+"studioProperty" : "orgName"},
+
+{"xmlAttribute" : "ACCDATE",
+"studioProperty" : "accDate"}]}

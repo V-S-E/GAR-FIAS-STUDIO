@@ -1,0 +1,37 @@
+{"xmlTable" : "PARAMS",
+"studioClass" : "fias_PARAMS",
+"collations" : [
+
+{"xmlAttribute" : "ID",
+"studioProperty" : "fiasID"},
+
+{"xmlAttribute" : "OBJECTID",
+"studioProperty" : "objectID"},
+
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"},
+
+
+{"xmlAttribute" : "CHANGEIDEND",
+"studioProperty" : "changeIDEnd"},
+
+
+{"xmlAttribute" : "TYPEID",
+"studioProperty" : "typeID"},
+
+
+{"xmlAttribute" : "VALUE",
+"studioProperty" : "value"},
+
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"}]}

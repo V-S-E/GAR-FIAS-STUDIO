@@ -1,0 +1,18 @@
+{"xmlTable" : "ITEMS",
+"studioClass" : "fias_CHANGEHISTORY",
+"collations" : [
+
+{"xmlAttribute" : "CHANGEID",
+"studioProperty" : "changeID"},
+
+{"xmlAttribute" : "OBJECTID",
+"studioProperty" : "objectID"},
+
+{"xmlAttribute" : "ADROBJECTID",
+"studioProperty" : "addrObjectID"},
+
+{"xmlAttribute" : "OPERTYPEID",
+"studioProperty" : "operTypeID"},
+
+{"xmlAttribute" : "CHANGEDATE",
+"studioProperty" : "changeDate"}]}

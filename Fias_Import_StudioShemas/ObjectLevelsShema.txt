@@ -1,0 +1,21 @@
+{"xmlTable" : "OBJECTLEVELS",
+"studioClass" : "fias_OBJECTLEVELS",
+"collations" : [
+
+{"xmlAttribute" : "LEVE",
+"studioProperty" : "level"},
+
+{"xmlAttribute" : "NAME",
+"studioProperty" : "fiasName"},
+
+{"xmlAttribute" : "STARTDATE",
+"studioProperty" : "startDate"},
+
+{"xmlAttribute" : "ENDDATE",
+"studioProperty" : "endDate"},
+
+{"xmlAttribute" : "UPDATEDATE",
+"studioProperty" : "fiasUpdateDate"},
+
+{"xmlAttribute" : "ISACTIVE",
+"studioProperty" : "isActive"}]}
