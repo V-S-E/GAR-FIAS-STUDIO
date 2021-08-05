@@ -1,0 +1,9 @@
+{"xmlTable" : "?",
+"studioClass" : "?",
+"collations" : [
+
+{"xmlAttribute" : "?",
+"studioProperty" : "?"},
+
+{"xmlAttribute" : "?",
+"studioProperty" : "?"}]}
